@@ -7,11 +7,11 @@ Gosto de criar soluções que unem **design**, **eficiência** e **experiência 
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Desenvolvimento de Software / Engenharia da Computação**  
-- 🌱 Atualmente aprendendo **TypeScript**, **React**, e **Node.js**  
+- 🎓 Estudante de **Desenvolvimento de Sistemas da Etec Tupã**  
+- 🌱 Atualmente aprendendo **React Native**, **React**, e **Node.js**  
 - 💡 Interesses: **IA**, **automação**, **desenvolvimento web full stack**  
 - 💬 Gosto de compartilhar conhecimento e contribuir com projetos open-source  
-- ⚡ Curiosidade: Eu adoro café ☕ e resolver desafios de código!
+- ⚡
 
 ---
 
@@ -27,15 +27,10 @@ Gosto de criar soluções que unem **design**, **eficiência** e **experiência 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 🗄️ Banco de Dados:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ⚙️ Ferramentas:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 

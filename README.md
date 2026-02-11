@@ -6,8 +6,9 @@ Gosto de criar soluções que unem **design**, **eficiência** e **experiência 
 ---
 
 ## 🚀 Sobre mim
-
-- 🎓 Estudante de **Desenvolvimento de Sistemas da Etec Tupã**  
+ 
+- 🎓 Cursando **Desenvolvimento de software multiplataforma na Fatec Marilia**
+- 🎓 Formado em **Desenvolvimento de Sistemas na Etec Tupã**  
 - 🌱 Atualmente aprendendo **React Native**, **React**, e **Node.js**  
 - 💡 Interesses: **IA**, **automação**, **desenvolvimento web full stack**  
 - 💬 Gosto de compartilhar conhecimento e contribuir com projetos open-source  

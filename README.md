@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro Martins!
+# 👋 Olá, eu sou Pedro Martins!
 
 💻 Desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo.  
 Gosto de criar soluções que unem **design**, **eficiência** e **experiência do usuário**.
